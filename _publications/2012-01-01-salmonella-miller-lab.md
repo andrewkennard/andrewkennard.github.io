@@ -1,8 +1,5 @@
 ---
-title: "The response threshold of Salmonella PilZ domain proteins is determined by their binding affinities for c-di-GMP"
 collection: publications
-date: 2012-01-01
-paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5034864'
 ---
 Pultz IS, Christen M, Kulasekara HD, <span style="color: #660000;">Kennard A</span>,
 Kulasekara B, Miller SI. (2012). <b>The response threshold of <i>Salmonella</i>
