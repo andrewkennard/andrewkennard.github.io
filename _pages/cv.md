@@ -31,12 +31,16 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Outreach
 ======
+  <ul>{% for post in site.outreach reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
   * 2015-2018: Co-founder and COO, 
      [Stanford Future Advancers of Science and Technology](https://fast.stanford.edu)
   * 2014-2017: Mentor, Ask-A-Scientist, Escondido Elementary, Stanford CA
