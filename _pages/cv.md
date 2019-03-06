@@ -9,27 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
+Currently in progress!
+
 Education
 ======
 * A.B. in Chemical and Physical Biology, _summa cum laude_, Harvard College, 2013
 * MPhil in Physics, University of Cambridge, 2014
 * Ph.D in Biophysics, Stanford University, 2020 _(expected)_
 
-Work experience
-======
-  
-Skills
-======
-
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-pubs.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
@@ -39,5 +35,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Outreach
 ======
+  * 2015-2018: Co-founder and COO, 
+     [Stanford Future Advancers of Science and Technology](https://fast.stanford.edu)
+  * 2014-2017: Mentor, Ask-A-Scientist, Escondido Elementary, Stanford CA
