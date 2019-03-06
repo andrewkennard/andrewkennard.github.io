@@ -1,6 +1,6 @@
 ---
 title: "Cambridge STIMULUS (Mentor)"
-collection: teaching
+collection: outreach 
 type: "Tutoring Program"
 venue: "DAMTP, University of Cambridge"
 date: 2014-01-01
