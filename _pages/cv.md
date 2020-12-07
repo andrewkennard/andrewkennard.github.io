@@ -13,9 +13,9 @@ Currently in progress!
 
 Education
 ======
-* A.B. in Chemical and Physical Biology, _summa cum laude_, Harvard College, 2013
+* Ph.D in Biophysics, Stanford University, 2021
 * MPhil in Physics, University of Cambridge, 2014
-* Ph.D in Biophysics, Stanford University, 2020
+* A.B. in Chemical and Physical Biology, _summa cum laude_, Harvard College, 2013
 
 Publications
 ======
