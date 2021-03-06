@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Andrew S. Kennard"
 title_separator          : "-"
 name                     : &name "Andrew S. Kennard"
-description              : &description "Biophysics PhD student at Stanford/UW"
+description              : &description "Postdoc at UMass Amherst"
 url                      : https://andrewkennard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andrewkennard/andrewkennard.github.io"
@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Andrew Kennard"
   avatar           : "headshot280x400.jpg"
-  bio              : "PhD Student in Biophysics at Stanford, working at 
-                      University of Washington"
+  bio              : "Postdoc in Evolutionary Cell Biology at UMass Amherst"
   location         : 
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=kennard+as+[author]"
