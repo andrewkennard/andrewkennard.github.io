@@ -3,15 +3,14 @@ UMass Amherst](https://www.bio.umass.edu/biology/), working in the lab of [Lilia
 Fritz-Laylin](http://www.fritzlaylinlab.org). I am a cell biologist, interested
 in how cells move rapidly in response to physical changes in their environment.
 I am currently studying this question in the single-celled eukaryote
-_Naegleria gruberi_ which can transition between amoeboid and flagellar 
+_Naegleria gruberi_, which can transition between amoeboid and flagellar 
 migration strategies, and last shared a common ancestor with humans over a 
 billion years ago. I am also looking into the mechanisms underlying  _Naegleria_'s
  unique cell division
 processes, as a case study in evolutionary cell biology and also as a
 route to discover treatments for infection by the related organism _Naegleria
-fowleri_, sometimes known as the "brain-eating amoeba."
-To address these questions I combine
-of live and fixed-cell microscopy with quantitative image analysis, and I develop
+fowleri_—sometimes known as the "brain-eating amoeba."
+To address these questions I combine live and fixed-cell microscopy with quantitative image analysis, and I develop
 techniques for controlled environmental perturbations.
 
 I received my PhD in Biophysics from Stanford University in 2021, working in the lab of 
@@ -41,7 +40,7 @@ together to design and carry out an original science project that matters to
 the student. In my 3 years with the organization I saw it expand from 50 
 students and 20 mentors to 180 students and 40 mentors across STEM disciplines.
 
-Outside the lab I enjoy listening to jazz and playing jazz piano, and I have 
+Outside the lab I enjoy walks in the woods and improvising the piano, and I have 
 been recently exploring photography for fun, not just as a research tool.
 
 
