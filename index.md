@@ -40,7 +40,7 @@ together to design and carry out an original science project that matters to
 the student. In my 3 years with the organization I saw it expand from 50 
 students and 20 mentors to 180 students and 40 mentors across STEM disciplines.
 
-Outside the lab I enjoy walks in the woods and improvising the piano, and I have 
+Outside the lab I enjoy walks in the woods and improvising on the piano, and I have 
 been recently exploring photography for fun, not just as a research tool.
 
 
