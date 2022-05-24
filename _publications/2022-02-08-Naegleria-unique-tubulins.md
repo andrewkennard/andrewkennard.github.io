@@ -8,5 +8,5 @@ Trupinić M, Ivec A, Swafford AJM, Nolton E, Rice LM, Tolić IM,
 Fritz-Laylin LK, Wadsworth P. (2022).
 <b><i>Naegleria</i>'s mitotic spindles are built from unique tubulins and 
 highlight core spindle features</b>
-<i>Curr. Biol., 32</i>(6): 1247-1261. 
+<i>Curr. Biol., 32</i>(6): 1247-1261. <br>
 [\[Free version\]](https://www.sciencedirect.com/science/article/pii/S0960982222000458) [\[Preprint\]](https://www.biorxiv.org/content/10.1101/2021.02.23.432318v1) [\[Tweetorial\]](https://twitter.com/KatrinaVelle/status/1491197830354341892) 
