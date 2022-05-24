@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2022-05-22-zebrafish-hydraulic-fracking
 date: 2022-05-22
 venue: 'bioRxiv'
-citation: '<span style=&quot;color: #660000;&quot;>Kennard AS</span>\*, Sathe M\*, Labuz EC, Prinz CK, Theriot JA. (2022). Post-injury hydraulic fracturing drives fissure formation in the zebrafish basal epidermal cell layer. <i>bioRxiv</i> doi:10.1101/2022.05.21.492930'
 ---
 <span style="color: #660000;">Kennard AS</span>\*, Sathe M\*, Labuz EC, Prinz CK, Theriot JA. (2022).
 <b>Post-injury hydraulic fracturing drives fissure formation in the zebrafish basal epidermal cell layer.</b>
