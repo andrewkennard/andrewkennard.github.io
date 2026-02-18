@@ -1,28 +1,28 @@
 I am a postdoctoral researcher in the [Biology department of
 UMass Amherst](https://www.bio.umass.edu/biology/), working in the lab of [Lilian
 Fritz-Laylin](http://www.fritzlaylinlab.org). I am a cell biologist, interested
-in how cells move rapidly in response to physical changes in their environment.
-I am currently studying this question in the single-celled eukaryote
-_Naegleria gruberi_, which can transition between amoeboid and flagellar 
-migration strategies, and last shared a common ancestor with humans over a 
-billion years ago. I am also looking into the mechanisms underlying  _Naegleria_'s
- unique cell division
-processes, as a case study in evolutionary cell biology and also as a
-route to discover treatments for infection by the related organism _Naegleria
-fowleri_—sometimes known as the "brain-eating amoeba."
-To address these questions I combine live and fixed-cell microscopy with quantitative image analysis, and I develop
-techniques for controlled environmental perturbations.
+in uncovering fundamental principles underlying cellular organization and dynamics.
+I am currently trying to understand how cytoskeletal networks evolve and diversify, 
+with a particular focus on the microtubule cytoskeleton during cell division. 
+I pursue this question in the emerging model organism
+[_Naegleria gruberi_](https://pmc.ncbi.nlm.nih.gov/articles/PMC4929615/),
+a single-celled eukaryote which last shared a common ancestor with yeast and 
+humans well over a billion years ago, and which has developed [unique innovations
+in its microtubule cytoskeleton](https://pmc.ncbi.nlm.nih.gov/articles/PMC11753955/).
 
 I received my PhD in Biophysics from Stanford University in 2021, working in the lab of 
-[Julie Theriot](https://www.biology.washington.edu/people/profile/julie-theriot), 
+[Julie Theriot](https://sites.uw.edu/theriotlab/), 
 now at the University of Washington Department of 
-Biology. During my PhD I studied the wound healing response in larval zebrafish
-skin, as a model system for how cells move in response to changing environmental
-cues.
+Biology. During my PhD I studied the influence of [mechanical](https://www.cell.com/current-biology/fulltext/S0960-9822(23)00616-4) and 
+[electrical](https://elifesciences.org/articles/62386)
+forces on cell migration in the context of the rapid wound healing response in larval zebrafish
+skin.
 
 I received my Masters from the University of Cambridge (Emmanuel College) 
 under the direction of [Pietro Cicuta](http://people.bss.phy.cam.ac.uk/~pc245),
- studying how populations of bacteria maintain a constant average size despite 
+ studying how populations of bacteria maintain a 
+[constant average size](Individuality and universality in the growth-division laws of single E. coli cells)
+ despite 
 rapid exponential growth and division. Before that I received my Bachelor's 
 degree from Harvard College, where I investigated how cyanobacteria cope with 
 high light stress in the lab of [Erin O'Shea](https://www.hhmi.org/scientists/erin-k-oshea).
