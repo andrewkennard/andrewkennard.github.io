@@ -21,8 +21,8 @@ skin.
 I received my Masters from the University of Cambridge (Emmanuel College) 
 under the direction of [Pietro Cicuta](http://people.bss.phy.cam.ac.uk/~pc245),
  studying how populations of bacteria maintain a 
-[constant average size](Individuality and universality in the growth-division laws of single E. coli cells)
- despite 
+[constant average size](https://air.unimi.it/retrieve/handle/2434/608086/1147337/PhysRevE.93.pdf)
+despite 
 rapid exponential growth and division. Before that I received my Bachelor's 
 degree from Harvard College, where I investigated how cyanobacteria cope with 
 high light stress in the lab of [Erin O'Shea](https://www.hhmi.org/scientists/erin-k-oshea).
