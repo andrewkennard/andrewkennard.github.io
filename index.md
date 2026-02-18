@@ -9,6 +9,9 @@ I pursue this question in the emerging model organism
 a single-celled eukaryote which last shared a common ancestor with yeast and 
 humans well over a billion years ago, and which has developed [unique innovations
 in its microtubule cytoskeleton](https://pmc.ncbi.nlm.nih.gov/articles/PMC11753955/).
+My work has been supported by a Ruth Kirschstein National Research Service Award (F32) 
+from the National Institutes of Health (NIGMS).
+
 
 I received my PhD in Biophysics from Stanford University in 2021, working in the lab of 
 [Julie Theriot](https://sites.uw.edu/theriotlab/), 
