@@ -8,27 +8,19 @@ I pursue this question in the emerging model organism
 [_Naegleria gruberi_](https://pmc.ncbi.nlm.nih.gov/articles/PMC4929615/),
 a single-celled eukaryote which last shared a common ancestor with yeast and 
 humans well over a billion years ago, and which has developed [unique innovations
-in its microtubule cytoskeleton](https://pmc.ncbi.nlm.nih.gov/articles/PMC11753955/).
+in its microtubule cytoskeleton](https://pmc.ncbi.nlm.nih.gov/articles/PMC11753955/)
+and its [cell division machinery](https://www.biorxiv.org/content/10.64898/2026.08.18.745565v1).
 My work has been supported by a Ruth Kirschstein National Research Service Award (F32) 
 from the National Institutes of Health (NIGMS).
 
-
-I received my PhD in Biophysics from Stanford University in 2021, working in the lab of 
-[Julie Theriot](https://sites.uw.edu/theriotlab/), 
-now at the University of Washington Department of 
-Biology. During my PhD I studied the influence of [mechanical](https://www.cell.com/current-biology/fulltext/S0960-9822(23)00616-4) and 
+I received my PhD in Biophysics at Stanford in the lab of Julie Theriot, and my
+MPhil from Cambridge in the lab of Pietro Cicuta.
+I have been fortunate to work on a wide range of problems in my training, including
+the influence of [hydraulic](https://www.cell.com/current-biology/fulltext/S0960-9822%2823%2900616-4) and 
 [electrical](https://elifesciences.org/articles/62386)
-forces on cell migration in the context of the rapid wound healing response in larval zebrafish
-skin.
-
-I received my Masters from the University of Cambridge (Emmanuel College) 
-under the direction of [Pietro Cicuta](http://people.bss.phy.cam.ac.uk/~pc245),
- studying how populations of bacteria maintain a 
-[constant average size](https://air.unimi.it/retrieve/handle/2434/608086/1147337/PhysRevE.93.pdf)
-despite 
-rapid exponential growth and division. Before that I received my Bachelor's 
-degree from Harvard College, where I investigated how cyanobacteria cope with 
-high light stress in the lab of [Erin O'Shea](https://www.hhmi.org/scientists/erin-k-oshea).
+forces on cell migration *in vivo*, 
+and the [physiology](https://air.unimi.it/retrieve/handle/2434/608086/1147337/PhysRevE.93.pdf)
+  of bacterial cell size control during my Master's. 
 
 I believe that everyone's life can be enriched by an appreciation of science 
 or by practicing the scientific method. More must be done to reduce the barriers 
@@ -45,5 +37,3 @@ students and 20 mentors to 180 students and 40 mentors across STEM disciplines.
 
 Outside the lab I enjoy walks in the woods and improvising on the piano, and I have 
 been recently exploring photography for fun, not just as a research tool.
-
-
