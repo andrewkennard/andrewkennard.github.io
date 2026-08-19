@@ -8,3 +8,4 @@ date: 2026-08-19
 <b>Kinetochore diversification in <i>Naegleria</i> reveals plasticity in the kinetochore-microtubule interface</b>.
 Preprint (biorXiv). doi:10.64898/2026.08.18.745565<br>
 [\[Preprint\]](https://www.biorxiv.org/content/10.64898/2026.08.18.745565v1)
+[\[Bluesky thread\]](https://bsky.app/profile/askennard.bsky.social/post/3mthfxp2j7c2h)
