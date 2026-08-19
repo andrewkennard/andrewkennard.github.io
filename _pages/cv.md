@@ -18,6 +18,7 @@ Education
 
 Honors and Awards
 ======
+* Whitman Fellow, Marine Biological Laboratory, Woods Hole: 2026
 * Ruth Kirschstein-NRSA F32 Fellowship, NIH (NIGMS): 2023-2025
 * Honorable Mention, NSF GRFP: 2015
 * Herchel Smith Cambridge Postgraduate Fellowship: 2013
